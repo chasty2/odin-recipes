@@ -1,5 +1,14 @@
 body {
-    background-color: tan;
+    background-color: rgb(231, 175, 100);
+}
+
+.text {
+    color: rgb(73, 27, 4);
+}
+
+.link {
+    text-decoration: underline;
+    text-decoration-color: rgb(73, 27, 4);
 }
 
 .recipe-preview {
@@ -13,4 +22,5 @@ body {
 
 figcaption {
     text-align: center;
+    
 }
