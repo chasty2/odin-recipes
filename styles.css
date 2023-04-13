@@ -4,9 +4,11 @@ body {
 
 .text {
     color: rgb(73, 27, 4);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 .link {
+    font-weight: bold;
     text-decoration: underline;
     text-decoration-color: rgb(73, 27, 4);
 }
@@ -22,5 +24,4 @@ body {
 
 figcaption {
     text-align: center;
-    
 }
